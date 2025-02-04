@@ -34,7 +34,7 @@ Antes de começar, você precisa ter instalado:
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd open_school
+   cd open_school/app
    ```
 3. Instale as dependências:
    ```bash
