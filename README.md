@@ -1,5 +1,7 @@
 # 📚 Open School
 
+STATUS: EM DESENVOLVIMENTO
+
 Open School é um aplicativo mobile desenvolvido em React Native com Expo, criado para monitorar o tempo de estudo de forma gamificada. Inspirado no Duolingo, ele permite que os usuários acompanhem suas horas estudadas, estabeleçam metas diárias, semanais e mensais, e participem de um ranking saudável para incentivar o estudo.
 
 ## 🚀 Tecnologias Utilizadas
