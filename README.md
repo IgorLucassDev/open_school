@@ -30,11 +30,11 @@ Antes de começar, você precisa ter instalado:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/studytracker.git
+   git clone https://github.com/igorlucassdev/open_school.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd studytracker
+   cd open_school
    ```
 3. Instale as dependências:
    ```bash
